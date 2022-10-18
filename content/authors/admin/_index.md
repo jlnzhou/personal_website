@@ -50,8 +50,8 @@ first_name: Julien
 email: zj.zhoujulien@gmail.com
 ---
 
+I am currently a PhD Student working under the supervision of [Pierre Gaillard](http://pierre.gaillard.me/) ([Inria Thoth](https://thoth.inrialpes.fr/)), [Julyan Arbel](https://www.julyanarbel.com/) ([Inria Statify](https://team.inria.fr/statify/)) and [Thibaud Rahier](https://www.linkedin.com/in/thibaud-rahier-8874208a/) ([Criteo AI Lab](https://ailab.criteo.com/)), on Bandits Problems.
 
+Before that, I worked as a Research Intern under the supervision of [Pierre Gaillard](http://pierre.gaillard.me/) and [Houssam Zenati](https://houssamzenati.github.io/me/), and I graduated from Centrale Paris (now [CentraleSupélec](https://www.centralesupelec.fr/)) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Feel free to download {{< staticref "uploads/CV_JulienZhou.pdf" "newtab" >}}my CV{{< /staticref >}}.
