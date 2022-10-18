@@ -26,31 +26,31 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/julien-zhou/
 organizations:
-  - name: Criteo AI Lab
-    url: https://ailab.criteo.com/
   - name: Inria Statify
     url: https://team.inria.fr/statify/
   - name: Inria Thoth
-    url: https://team.inria.fr/thoth/
+    url: https://team.inria.fr/thoth/  
+  - name: Criteo AI Lab
+    url: https://ailab.criteo.com/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Machine Learning,
+      institution: Université Grenoble-Alpes
+      year: 2022 - TBD
+    - course: MSc in Statistics and Machine Learning
+      institution: Université Paris-Saclay
+      year: 2021 - 2022
+    - course: MSc in Applied Mathematics
+      institution: Ecole Centrale Paris (now CentraleSupélec)
+      year: 2015 - 2020
 superuser: true
-last_name: Bighetti
+last_name: Zhou
 highlight_name: true
-first_name: Alice
-email: ""
+first_name: Julien
+email: zj.zhoujulien@gmail.com
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
