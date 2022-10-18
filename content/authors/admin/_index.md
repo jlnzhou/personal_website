@@ -1,16 +1,15 @@
 ---
 title: Julien Zhou
 role: PhD Student @ Inria & Criteo AI Lab
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Theoretical Machine Learning, Probability and Statistics.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Mathematics
+  - Computer Science
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:zj.zhoujulien@gmail.com [/#contact]
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
