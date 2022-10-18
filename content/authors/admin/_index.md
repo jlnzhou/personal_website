@@ -9,25 +9,29 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:zj.zhoujulien@gmail.com [/#contact]
+    link: mailto:zj.zhoujulien@gmail.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/jlnzhou
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jlnzhou
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/julien-zhou/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Criteo AI Lab
+    url: https://ailab.criteo.com/
+  - name: Inria Statify
+    url: https://team.inria.fr/statify/
+  - name: Inria Toth
+  - url: https://team.inria.fr/thoth/
 education:
   courses:
     - course: PhD in Artificial Intelligence
