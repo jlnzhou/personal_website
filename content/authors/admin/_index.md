@@ -30,8 +30,8 @@ organizations:
     url: https://ailab.criteo.com/
   - name: Inria Statify
     url: https://team.inria.fr/statify/
-  - name: Inria Toth
-  - url: https://team.inria.fr/thoth/
+  - name: Inria Thoth
+    url: https://team.inria.fr/thoth/
 education:
   courses:
     - course: PhD in Artificial Intelligence
