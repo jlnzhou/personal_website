@@ -27,8 +27,8 @@ experience:
     company_url: https://ailab.criteo.com/
     company_logo: criteo_logo
     location: France
-    date_start: '05/2022'
-    date_end: '09/2022'
+    date_start: '05-2022'
+    date_end: '09-2022'
     description: Research Internship on Kernel Bandit Algorithms in a contextual environment.
 
 design:
